@@ -7,6 +7,7 @@
 - [ ] nodejs.
 - [ ] vscode.
 - [ ] configuracion de ssh con git.
+- [ ] openjdk java
 
 
 ## configuracion vscode 
@@ -24,3 +25,4 @@
 - [ ] docker.
 - [ ] yaml.
 - [ ] sonarLint.
+- [ ] Extension pack for java
